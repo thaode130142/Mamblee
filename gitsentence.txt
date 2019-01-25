@@ -1,0 +1,4 @@
+1. bao cho git local la co them... git add
+2. bao cho git local la minh ghi nhan sua doi... git commit  -m ""
+3. day len server... git push
+4.ktra trang thai ... git status
